@@ -7,8 +7,8 @@ To perform data cleaning, transformation, and analysis on global carbon dioxide 
 - **Emissions Data:** `Carbon Dioxide Emission Estimates.csv`
 - **Carbon Reduction Methods:** `reduce_Carbon.csv`
 - **Tables:**
-  - `emissions` (Country, Year, Emission Value)
-  - `reduced_carbon` (Type of Action, Carbon Reduced in Gigatonnes, Method)
+  - `emissions` (CO2 emission estimates, Year, Series, Value)
+  - `reduced_carbon` (Type, Reduced Carbon(Gt), How)
 
 ## 🧠 SQL Concepts Applied
 - Database and Table Creation
